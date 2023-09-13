@@ -1,0 +1,22 @@
+{
+  "name": "2d-bin-packing-visualization-forked",
+  "description": "2D Bin Packing Visualization using binpackingjs",
+  "version": "0.0.0",
+  "dependencies": {
+    "binpackingjs": "2.2.4",
+    "react": "15.5.3",
+    "react-dom": "15.5.3",
+    "react-grid-layout": "0.14.7",
+    "react-resizable": "1.7.1",
+    "seedrandom": "2.4.3"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
